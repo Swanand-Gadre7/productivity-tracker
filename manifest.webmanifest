@@ -1,0 +1,21 @@
+{
+  "name": "Momentum",
+  "short_name": "Momentum",
+  "description": "Daily productivity tracker with task charts, reminders, and fitness logging.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f4efe7",
+  "theme_color": "#d96c3f",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
